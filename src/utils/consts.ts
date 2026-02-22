@@ -1,0 +1,1 @@
+export const tokens: string[] = ['auth', 'seller', 'gig', 'buyer', 'order', 'review', 'search', 'message'];
